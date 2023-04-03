@@ -12,7 +12,7 @@ class Special():
 
         if work == "eye":
             self.camera()
-        else
+        else:
             self.media(work)
 
     
